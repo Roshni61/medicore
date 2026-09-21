@@ -1,0 +1,9 @@
+/* Import Tailwind CSS directives for base styles, component classes, and utility classes */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global layout resetting default browser body margin */
+body {
+  margin: 0;
+}
